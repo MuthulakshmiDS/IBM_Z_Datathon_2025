@@ -1,4 +1,4 @@
-# IBM_Z_Datathon_2025
+# IBM_Z_datathon-_2025
 
 # 🌱 EcoEdu: Gamified Environmental Education Platform
 
